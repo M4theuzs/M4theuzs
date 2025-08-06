@@ -1,4 +1,5 @@
-# 💫 About Me: Sou estudante de analise e desenvolvimento de sistemas<br>UNIMATER/ Pato Branco-PR<br>
+# 💫 About Me: 
+Sou estudante de analise e desenvolvimento de sistemas<br>UNIMATER/ Pato Branco-PR<br>
 Estou a procura de estagio na area de tecnologia<br>
 
 
