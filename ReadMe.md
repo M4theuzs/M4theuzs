@@ -32,3 +32,4 @@
 
 ---
 ✍️ *Este README foi criado para refletir meu aprendizado, objetivos e trajetória na tecnologia.*
+
